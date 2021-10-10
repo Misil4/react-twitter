@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "./image.jsx";
+import Image from "../mainContainer/image.jsx";
 import DetailTitle from "./detailTitle.jsx";
 import DetailContent from "./detailContent.jsx";
 
